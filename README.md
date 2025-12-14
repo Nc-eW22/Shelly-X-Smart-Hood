@@ -7,6 +7,10 @@ Developed as part of **SPARK_LABS⚡️**
 
 ---
 
+![Shelly X Smart Hood UI](https://github.com/user-attachments/assets/fa5b54aa-c6b1-417b-855c-05ef516fc65e)
+
+---
+
 ## Overview
 
 **Shelly X Smart Hood** is an advanced, **Shelly X Gen3–only** range hood automation
